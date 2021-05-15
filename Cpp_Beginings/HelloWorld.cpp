@@ -30,7 +30,7 @@ int arr3d[2][3][2] = {
 };
 
 
-
+/*
 int main()
 {
     //cout << f(5) << endl;
@@ -52,3 +52,4 @@ int main()
 
     return 0;
 }
+*/
